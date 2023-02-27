@@ -1,4 +1,4 @@
-from Scrabble import *
+from Renee-1102-Scrabble import*
 
 #
 # Test code
@@ -24,6 +24,9 @@ def test_get_word_score():
             failure = True
     if not failure:
         print("SUCCESS: test_get_word_score()")
+
+       
+
 
 # end of test_get_word_score
 
